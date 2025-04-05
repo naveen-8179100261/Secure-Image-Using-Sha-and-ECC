@@ -1,4 +1,4 @@
-securely store files in a database, you can use a combination of SHA (Secure Hash Algorithm) for data integrity and ECC (Elliptic Curve Cryptography) for encryption, ensuring both confidentiality and verification of data. 
+To securely store files in a database, you can use a combination of SHA (Secure Hash Algorithm) for data integrity and ECC (Elliptic Curve Cryptography) for encryption, ensuring both confidentiality and verification of data. 
 Here's a more detailed explanation:
 1. Secure Hash Algorithm (SHA):
 Purpose:
